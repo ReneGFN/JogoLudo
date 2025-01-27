@@ -1,0 +1,2 @@
+🎲 Ludo Game in C#
+This project is a digital version of the classic board game Ludo, developed entirely in C# as a way to practice object-oriented programming concepts. The game allows players to roll dice, move pieces, and compete to reach the goal, all while following traditional Ludo rules. It was a fun and educational project to explore game logic, data management, and user interaction within a console application. 🚀
